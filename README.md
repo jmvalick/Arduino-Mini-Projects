@@ -34,11 +34,15 @@ This is a repository of short Arduino projects I made for practice.
 - wiring
 
 ### Circuit Diagram
-<img src="./clap_on_clap_off/Images/Screenshot 2025-02-24 225107.png" width="700">
+<img src="./clap_on_clap_off/Images/Screenshot 2025-02-24 225107.png" width="500">
+
+<img src="./clap_on_clap_off/Images/20221217_192822.jpg" width="500">
 
 
 ### 3D Model and Housing
 File Locations: [solidworks](./clap_on_clap_off/Models/clapper_case.SLDPRT), [stl](./clap_on_clap_off/Models/clapper_case.STL)
+
+The electronics housing connects to the bottom of the power strip and neatly hides all the electronics.
 
 Images:
 
@@ -48,7 +52,10 @@ Images:
 
 
 ### Results
-<img src="./clap_on_clap_off/Images/20221217_192822.jpg" width="500">
+
+<img src="./clap_on_clap_off/Images/IMG_20250225_213142 (1).jpg" width="500">
+
+<img src="./clap_on_clap_off/Images/IMG_20250225_213142 (3).jpg" width="500">
 
 
 ### Challenges and Learnings
